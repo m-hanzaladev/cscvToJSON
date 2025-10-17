@@ -1,0 +1,227 @@
+[
+    {
+        "Product ID": "1",
+        "Product Name": "Nike Air Max 270",
+        "Category": "Footwear",
+        "Price (USD)": "149.99",
+        "Stock Quantity": "34",
+        "Rating": "4.6",
+        "Description": "Lightweight sneakers with breathable mesh design."
+    },
+    {
+        "Product ID": "2",
+        "Product Name": "Apple iPhone 15",
+        "Category": "Electronics",
+        "Price (USD)": "999.0",
+        "Stock Quantity": "15",
+        "Rating": "4.9",
+        "Description": "Latest iPhone with A17 chip and OLED display."
+    },
+    {
+        "Product ID": "3",
+        "Product Name": "Samsung Galaxy S24",
+        "Category": "Electronics",
+        "Price (USD)": "899.0",
+        "Stock Quantity": "20",
+        "Rating": "4.8",
+        "Description": "Flagship Android smartphone with AI camera."
+    },
+    {
+        "Product ID": "4",
+        "Product Name": "Adidas Ultraboost 22",
+        "Category": "Footwear",
+        "Price (USD)": "180.0",
+        "Stock Quantity": "27",
+        "Rating": "4.7",
+        "Description": "Running shoes with energy-returning cushioning."
+    },
+    {
+        "Product ID": "5",
+        "Product Name": "Sony WH-1000XM5",
+        "Category": "Audio",
+        "Price (USD)": "399.99",
+        "Stock Quantity": "40",
+        "Rating": "4.9",
+        "Description": "Noise-cancelling wireless headphones."
+    },
+    {
+        "Product ID": "6",
+        "Product Name": "Dell XPS 13 Laptop",
+        "Category": "Computers",
+        "Price (USD)": "1249.0",
+        "Stock Quantity": "12",
+        "Rating": "4.8",
+        "Description": "Compact ultrabook with Intel i7 processor."
+    },
+    {
+        "Product ID": "7",
+        "Product Name": "Logitech MX Master 3",
+        "Category": "Accessories",
+        "Price (USD)": "99.99",
+        "Stock Quantity": "80",
+        "Rating": "4.7",
+        "Description": "Ergonomic wireless mouse with fast scroll."
+    },
+    {
+        "Product ID": "8",
+        "Product Name": "Apple Watch Series 9",
+        "Category": "Wearables",
+        "Price (USD)": "499.0",
+        "Stock Quantity": "25",
+        "Rating": "4.8",
+        "Description": "Smartwatch with heart rate and fitness tracking."
+    },
+    {
+        "Product ID": "9",
+        "Product Name": "Amazon Echo Dot 5th Gen",
+        "Category": "Smart Home",
+        "Price (USD)": "49.99",
+        "Stock Quantity": "100",
+        "Rating": "4.6",
+        "Description": "Smart speaker with Alexa voice assistant."
+    },
+    {
+        "Product ID": "10",
+        "Product Name": "Canon EOS R8",
+        "Category": "Cameras",
+        "Price (USD)": "1499.0",
+        "Stock Quantity": "10",
+        "Rating": "4.9",
+        "Description": "Mirrorless camera for high-quality photography."
+    },
+    {
+        "Product ID": "11",
+        "Product Name": "HP Envy 5055 Printer",
+        "Category": "Office",
+        "Price (USD)": "129.0",
+        "Stock Quantity": "22",
+        "Rating": "4.4",
+        "Description": "All-in-one wireless printer and scanner."
+    },
+    {
+        "Product ID": "12",
+        "Product Name": "Nike Dri-FIT Tee",
+        "Category": "Clothing",
+        "Price (USD)": "29.99",
+        "Stock Quantity": "60",
+        "Rating": "4.5",
+        "Description": "Moisture-wicking athletic t-shirt."
+    },
+    {
+        "Product ID": "13",
+        "Product Name": "Samsung 65” QLED TV",
+        "Category": "Electronics",
+        "Price (USD)": "1199.0",
+        "Stock Quantity": "8",
+        "Rating": "4.8",
+        "Description": "4K UHD Smart TV with vivid QLED display."
+    },
+    {
+        "Product ID": "14",
+        "Product Name": "Bose SoundLink Flex",
+        "Category": "Audio",
+        "Price (USD)": "149.0",
+        "Stock Quantity": "50",
+        "Rating": "4.7",
+        "Description": "Portable Bluetooth speaker with deep bass."
+    },
+    {
+        "Product ID": "15",
+        "Product Name": "Asus ROG Strix G16",
+        "Category": "Computers",
+        "Price (USD)": "1699.0",
+        "Stock Quantity": "9",
+        "Rating": "4.9",
+        "Description": "Gaming laptop with RTX 4070 GPU."
+    },
+    {
+        "Product ID": "16",
+        "Product Name": "Levi’s 511 Slim Fit Jeans",
+        "Category": "Clothing",
+        "Price (USD)": "59.99",
+        "Stock Quantity": "70",
+        "Rating": "4.5",
+        "Description": "Stretch denim jeans with modern fit."
+    },
+    {
+        "Product ID": "17",
+        "Product Name": "Fitbit Charge 6",
+        "Category": "Wearables",
+        "Price (USD)": "179.99",
+        "Stock Quantity": "30",
+        "Rating": "4.6",
+        "Description": "Fitness tracker with heart and sleep monitor."
+    },
+    {
+        "Product ID": "18",
+        "Product Name": "GoPro Hero 12",
+        "Category": "Cameras",
+        "Price (USD)": "499.0",
+        "Stock Quantity": "18",
+        "Rating": "4.7",
+        "Description": "Waterproof action camera with 5.3K video."
+    },
+    {
+        "Product ID": "19",
+        "Product Name": "Kindle Paperwhite",
+        "Category": "Smart Home",
+        "Price (USD)": "139.99",
+        "Stock Quantity": "25",
+        "Rating": "4.8",
+        "Description": "E-reader with adjustable warm light."
+    },
+    {
+        "Product ID": "20",
+        "Product Name": "Beats Studio Pro",
+        "Category": "Audio",
+        "Price (USD)": "349.99",
+        "Stock Quantity": "35",
+        "Rating": "4.6",
+        "Description": "Wireless over-ear headphones with ANC."
+    },
+    {
+        "Product ID": "21",
+        "Product Name": "Google Pixel 8 Pro",
+        "Category": "Electronics",
+        "Price (USD)": "1099.0",
+        "Stock Quantity": "14",
+        "Rating": "4.8",
+        "Description": "AI-powered Android smartphone with 50MP camera."
+    },
+    {
+        "Product ID": "22",
+        "Product Name": "Sony PlayStation 5",
+        "Category": "Gaming",
+        "Price (USD)": "499.99",
+        "Stock Quantity": "11",
+        "Rating": "4.9",
+        "Description": "Next-gen gaming console with 4K graphics."
+    },
+    {
+        "Product ID": "23",
+        "Product Name": "Xbox Series X",
+        "Category": "Gaming",
+        "Price (USD)": "499.99",
+        "Stock Quantity": "13",
+        "Rating": "4.8",
+        "Description": "High-performance gaming console by Microsoft."
+    },
+    {
+        "Product ID": "24",
+        "Product Name": "Razer BlackWidow V4",
+        "Category": "Accessories",
+        "Price (USD)": "189.99",
+        "Stock Quantity": "45",
+        "Rating": "4.7",
+        "Description": "Mechanical gaming keyboard with RGB lighting."
+    },
+    {
+        "Product ID": "25",
+        "Product Name": "Crocs Classic Clog",
+        "Category": "Footwear",
+        "Price (USD)": "49.99",
+        "Stock Quantity": "120",
+        "Rating": "4.4",
+        "Description": "Comfortable slip-on clogs for everyday wear."
+    }
+]
